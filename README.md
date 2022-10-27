@@ -1,2 +1,2 @@
 # TypingTest
-// I made a 42 WPM
+I made a 42 WPM
